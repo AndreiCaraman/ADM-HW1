@@ -2,5 +2,7 @@
 FDS homework assignment due on the 10th of October 2021
 
 ## Script descriptions:
-`scripts.py` contains the solution of the exercise assigned\
-`stamps/screenshots.pdf` contains the screenshots that assess the completed exercises
+`problem1_solutions.py` contains the solutions of Problem 1\
+`problem2_solutions.py` contains the solutions of Problem 2\
+`stamps/problem1_proof.pdf` contains the screenshots that assess the completed exercises of Problem 1\
+`stamps/problem2_proof.pdf` contains the screenshots that assess the completed exercises  of Problem 1\
